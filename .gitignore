@@ -21,3 +21,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+mongo-db-data
+credentials.json
+
+my-blog-backend/.env
+my-blog-backend/credentials.json
+my-blog-backend/prod-env.yaml
